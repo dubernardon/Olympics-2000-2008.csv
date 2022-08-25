@@ -4,5 +4,6 @@
 
 Each column indicates how many medals United States, China and Russia gotted in these olympics!
 Those data were used to create a narrative visualization with d3.js: d3.csv('gitlink', function(data){ });
+'Escolha' Column were used to initialize the chart without data!
 
 Thanks for visiting my repository!🙋‍♂️
